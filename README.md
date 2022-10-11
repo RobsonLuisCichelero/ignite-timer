@@ -1,5 +1,8 @@
 # Sobre o projeto
-Project created during the Ignite, carried out by Rocketseat.
+Projeto criado durante as aulas do Ignite, realizada pela Rocketseat.
+
+A aplicação se trata de um timer utilizando a técnica de pomodoro, onde o usuário adiciona o nome do projeto ou trabalho que irá realizar e o tempo respectivo da tarefa, em sequinte a aplicação dispara esse tempo, até que esse tempo acabe.
+A também uma tela de histórico, que lista essas tarefas e qual foi o status. Se foi concluída, em andamento ou interrompida.
 
 ### Tecnologias utilizadas no projeto
 - React
