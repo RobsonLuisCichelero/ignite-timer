@@ -1,17 +1,31 @@
-# ignite-feed
+# Sobre o projeto
 Project created during the Ignite, carried out by Rocketseat.
 
-### Technologies Used
+### Tecnologias utilizadas no projeto
 - React
 - Vite
-- Typescript
-- Styled-Components
+- typescript
+- context api
+- reducers
+- styled-components
+- ESLint
+- react-router-dom
+- react-hook-form
+- zod
+- immer
 
-## Application photos:
+## Prints da aplicação:
+
+<div>
+    <img src="./assets/image1.png" width="99%" alt="">
+    <img src="./assets/image2.png" width="99%" alt="">
+    <img src="./assets/image3.png" width="99%" alt="">
+
+</div>
  
-### How to start the project.
+### Como rodar o projeto.
 
-run:
+Execute:
 ```bash
   npm install
 ```
